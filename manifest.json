@@ -1,7 +1,7 @@
 {
   "name": "الحزب الراتب",
   "short_name": "الحزب",
-  "description": "تطبيق الحزب الراتب يعمل بدون إنترنت",
+  "description": "quran risite",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
